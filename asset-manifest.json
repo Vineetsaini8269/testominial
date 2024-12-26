@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testominial/static/css/main.0669d675.css",
+    "main.js": "/testominial/static/js/main.86fb4bd6.js",
+    "index.html": "/testominial/index.html",
+    "main.0669d675.css.map": "/testominial/static/css/main.0669d675.css.map",
+    "main.86fb4bd6.js.map": "/testominial/static/js/main.86fb4bd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0669d675.css",
+    "static/js/main.86fb4bd6.js"
+  ]
+}
